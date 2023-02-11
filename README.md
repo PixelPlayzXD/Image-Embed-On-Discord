@@ -1,4 +1,4 @@
-# Sharex-Embed-On-Discord
+# Image-Embed-On-Discord
 This cloudflare worker script lets you share your images on discord in a cool way
 
 ### How to use 
